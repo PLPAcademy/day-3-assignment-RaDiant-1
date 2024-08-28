@@ -6,8 +6,8 @@
 
 1. What is the first step for installing Dart on a Windows machine?
 
-A) Install Homebrew
-B) Download the Dart SDK
+A) Install Homebrew 
+B) Download the Dart SDK  [CORRECT]
 C) Update your PATH
 D) Run Dart Doctor
 
@@ -17,14 +17,14 @@ D) Run Dart Doctor
 A) dart --install
 B) dart --check
 C) dart --verify
-D) dart --version
+D) dart --version  [CORRECT]
 
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
 A) Install Homebrew
-B) Update your PATH
-C) Run Flutter Doctor
+B) Update your PATH 
+C) Run Flutter Doctor   [CORRECT]
 D) Create a new Flutter project
 
 
@@ -32,7 +32,7 @@ D) Create a new Flutter project
 
 A) flutter start
 B) flutter build
-C) flutter run
+C) flutter run   [CORRECT]
 D) flutter init
 
 
@@ -41,27 +41,27 @@ D) flutter init
 What is the first step to install Python on a Windows system?
 
 A) Run the installer without any customization
-B) Download Python from the official website
+B) Download Python from the official website  [CORRECT]
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
 Which option should you ensure is checked during Python installation on Windows?
 
-A) Install with default settings
+A) Install with default settings   [CORRECT]
 B) Install to a custom directory
-C) Add Python to PATH
+C) Add Python to PATH 
 D) Install all available features
 
 How do you verify Python installation on any system?
 
-A) By running python --version
+A) By running python --version   [CORRECT]
 B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 
 What command is used to install pip on macOS and Linux?
 
-A) sudo install pip
+A) sudo install pip   [CORRECT]
 B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
@@ -70,7 +70,7 @@ What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
 B) To install Python in a different directory
-C) To separate project dependencies and avoid conflicts
+C) To separate project dependencies and avoid conflicts   [CORRECT]
 D) To enhance Python performance on your system
 
 #MySQL Installation
@@ -78,7 +78,7 @@ D) To enhance Python performance on your system
 What is the first step to install MySQL on Windows?
 
 A) Download MySQL Shell
-B) Download MySQL Installer from the official website
+B) Download MySQL Installer from the official website   [CORRECT]
 C) Install MySQL Workbench
 D) Set up a root password
 
@@ -87,11 +87,11 @@ What setup type should you choose for a custom MySQL installation?
 A) Developer Default
 B) Server Only
 C) Full
-D) Custom
+D) Custom   [CORRECT]
 
 Which products should you select during the MySQL installation?
 
-A) MySQL Server, MySQL Workbench, and MySQL Shell
+A) MySQL Server, MySQL Workbench, and MySQL Shell   [CORRECT]
 B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
@@ -99,7 +99,7 @@ D) MySQL Workbench and MySQL Utilities
 What is the purpose of setting a root password during MySQL installation?
 
 A) To create a user account for your MySQL server
-B) To secure your MySQL installation with a super-secret password
+B) To secure your MySQL installation with a super-secret password   [CORRECT]
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
 
